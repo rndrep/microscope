@@ -5,7 +5,7 @@ object-assign
 */
 
 /*!
- * CSSPlugin 3.7.0
+ * CSSPlugin 3.6.1
  * https://greensock.com
  *
  * Copyright 2008-2021, GreenSock. All rights reserved.
@@ -15,7 +15,7 @@ object-assign
 */
 
 /*!
- * Draggable 3.7.0
+ * Draggable 3.6.1
  * https://greensock.com
  *
  * @license Copyright 2008-2021, GreenSock. All rights reserved.
@@ -25,7 +25,7 @@ object-assign
  */
 
 /*!
- * GSAP 3.7.0
+ * GSAP 3.6.1
  * https://greensock.com
  *
  * @license Copyright 2008-2021, GreenSock. All rights reserved.
@@ -35,7 +35,7 @@ object-assign
 */
 
 /*!
- * matrix 3.7.0
+ * matrix 3.6.1
  * https://greensock.com
  *
  * Copyright 2008-2021, GreenSock. All rights reserved.
